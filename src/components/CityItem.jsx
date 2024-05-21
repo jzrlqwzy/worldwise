@@ -5,7 +5,6 @@ const formatDate = (date) =>
     day: "numeric",
     month: "long",
     year: "numeric",
-    weekday: "long",
   }).format(new Date(date));
 
 function CityItem({ city }) {
