@@ -71,6 +71,42 @@
         "lat": "51.533149330915755",
         "lng": "-0.48565605241229554"
       }
+    },
+    {
+      "id": "c7c7",
+      "cityName": "Amanty",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-05-23T02:36:20.766Z",
+      "notes": "",
+      "position": {
+        "lat": "48.51163245066157",
+        "lng": "5.62150812919993"
+      }
+    },
+    {
+      "id": "3d83",
+      "cityName": "Amanty",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-05-23T02:36:29.036Z",
+      "notes": "",
+      "position": {
+        "lat": "48.51163245066157",
+        "lng": "5.62150812919993"
+      }
+    },
+    {
+      "id": "0909",
+      "cityName": "Banchory",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2024-05-23T02:39:12.188Z",
+      "notes": "22",
+      "position": {
+        "lat": "57.11170504185402",
+        "lng": "-2.505541284581441"
+      }
     }
   ]
 }
