@@ -37,75 +37,15 @@
       "id": "98443197"
     },
     {
-      "id": "666a",
-      "cityName": "Edith Weston",
+      "id": "0d27",
+      "cityName": "Coventry",
       "country": "United Kingdom of Great Britain and Northern Ireland (the)",
       "emoji": "🇬🇧",
-      "date": "2024-05-23T02:28:40.824Z",
-      "notes": "test",
-      "position": {
-        "lat": "52.643052307892006",
-        "lng": "-0.6588523431518524"
-      }
-    },
-    {
-      "id": "3bf3",
-      "cityName": "Bassum",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2024-05-23T02:29:21.997Z",
-      "notes": "twa",
-      "position": {
-        "lat": "52.84260935623234",
-        "lng": "8.700240788147223"
-      }
-    },
-    {
-      "id": "d536",
-      "cityName": "London",
-      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
-      "emoji": "🇬🇧",
-      "date": "2024-05-23T02:32:29.716Z",
-      "notes": "111",
-      "position": {
-        "lat": "51.533149330915755",
-        "lng": "-0.48565605241229554"
-      }
-    },
-    {
-      "id": "c7c7",
-      "cityName": "Amanty",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2024-05-23T02:36:20.766Z",
+      "date": "2024-05-23T03:00:41.979Z",
       "notes": "",
       "position": {
-        "lat": "48.51163245066157",
-        "lng": "5.62150812919993"
-      }
-    },
-    {
-      "id": "3d83",
-      "cityName": "Amanty",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2024-05-23T02:36:29.036Z",
-      "notes": "",
-      "position": {
-        "lat": "48.51163245066157",
-        "lng": "5.62150812919993"
-      }
-    },
-    {
-      "id": "0909",
-      "cityName": "Banchory",
-      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
-      "emoji": "🇬🇧",
-      "date": "2024-05-23T02:39:12.188Z",
-      "notes": "22",
-      "position": {
-        "lat": "57.11170504185402",
-        "lng": "-2.505541284581441"
+        "lat": "52.444281072501944",
+        "lng": "-1.58279756968327"
       }
     }
   ]
