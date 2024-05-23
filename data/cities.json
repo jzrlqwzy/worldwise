@@ -37,15 +37,27 @@
       "id": "98443197"
     },
     {
-      "id": "0d27",
-      "cityName": "Coventry",
-      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
-      "emoji": "🇬🇧",
-      "date": "2024-05-23T03:00:41.979Z",
-      "notes": "",
+      "id": "90b5",
+      "cityName": "Combourg",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-05-23T03:33:05.533Z",
+      "notes": "111",
       "position": {
-        "lat": "52.444281072501944",
-        "lng": "-1.58279756968327"
+        "lat": "48.425510908187945",
+        "lng": "-1.759812478974552"
+      }
+    },
+    {
+      "id": "2587",
+      "cityName": "Monforte de Moyuela",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-05-23T03:34:55.873Z",
+      "notes": "111",
+      "position": {
+        "lat": "41.077190111355236",
+        "lng": "-0.9679915893239311"
       }
     }
   ]
