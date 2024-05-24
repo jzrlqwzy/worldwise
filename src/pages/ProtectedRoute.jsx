@@ -3,7 +3,7 @@ import { useAuth } from "../contexts/FakeAuthContext";
 import { useEffect } from "react";
 
 function ProtectedRoute({ children }) {
-  const { isAuthenticated } = useAuth;
+  const { isAuthenticated } = useAuth();
   const navigate = useNavigate();
 
   useEffect(
@@ -14,7 +14,7 @@ function ProtectedRoute({ children }) {
   );
 
   // component rendered then effect works, returned children includes user, hence add conditions here
-  return children;
+  return isAuthenticated ? children : null;
 }
 
 export default ProtectedRoute;
